@@ -1,0 +1,11 @@
+{
+  "username": "votre_nom_utilisateur",
+  "nom": "votre_nom",
+  "prenom": "votre_prenom",
+  "age": 30,
+  "niveauActivite": 3,
+  "objectifs": "vos_objectifs",
+  "preferences": "vos_preferences",
+  "routines": ["titre","difficulte","nom","rep","poids"],
+  "password": "votre_mot_de_passe"
+}

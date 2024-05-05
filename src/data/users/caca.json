@@ -1,0 +1,19 @@
+{
+  "username": "caca",
+  "nom": "caca",
+  "prenom": "caca",
+  "age": 0,
+  "niveauActivite": 1,
+  "objectifs": "caca",
+  "preferences": "caca",
+  "routines": [
+    {
+      "id": "1714923325183",
+      "titre": "Leg Press",
+      "difficulte": "6",
+      "rep": "15",
+      "poids": "120"
+    }
+  ],
+  "password": "caca"
+}
